@@ -1,1 +1,1 @@
-Writing simple programs in PyQt to gain an understanding of using PyQt.
+Wanted to get into Desktop applications development, so I started learning PyQt.
